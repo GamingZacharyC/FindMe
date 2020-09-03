@@ -12,4 +12,5 @@ This mod needs to be in the client and the server
  
 
 This feature is based in the search feature from [Extra Utilites 2](https://minecraft.curseforge.com/projects/extra-utilities).
-![Demonstration](https://i.imgur.com/2n2onOS.gif)
+
+See https://i.imgur.com/2n2onOS.gif for a demonstration.
